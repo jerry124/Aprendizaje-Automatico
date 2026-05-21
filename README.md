@@ -37,5 +37,7 @@ Cada notebook incluye:
 
 ## Autor
 
-Gerardo Valdez Martínez
+## Autor
+
+Gerardo Valdez Martínez  
 Maestría en Optimización y Cómputo Aplicado (MOCA)
