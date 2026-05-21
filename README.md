@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="principal.png" width="100%">
+</p>
+
+# Aprendizaje Automático
 # Aprendizaje Automático
 
 Repositorio donde se almacenan prácticas y proyectos desarrollados durante el curso de Aprendizaje Automático utilizando Python y diferentes técnicas de Machine Learning.
