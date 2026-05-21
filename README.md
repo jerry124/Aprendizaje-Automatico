@@ -2,15 +2,15 @@
   <img src="principal.png" width="100%">
 </p>
 
-# 📘 Aprendizaje Automático
+# Aprendizaje Automático
 
 Repositorio donde se almacenan prácticas, proyectos y apuntes personales desarrollados durante el curso de Aprendizaje Automático utilizando Python y diferentes técnicas de Machine Learning.
 
 ---
 
-## 📚 Contenido del repositorio
+## Contenido del repositorio
 
-### 🧪 Prácticas y proyectos
+### Prácticas y proyectos
 - Regresión Lineal
 - Regresión Logística
 - Clasificación Binaria
@@ -18,12 +18,12 @@ Repositorio donde se almacenan prácticas, proyectos y apuntes personales desarr
 - Predicción de precios de automóviles
 - Comparación de modelos de Machine Learning
 
-### 📓 Apuntes personales
-- 📘 Mis_Apuntes_Aprendizaje_Automatico.ipynb
+### Apuntes personales
+- Mis_Apuntes_Aprendizaje_Automatico.ipynb
 
 ---
 
-## 🛠️ Herramientas utilizadas
+## Herramientas utilizadas
 
 - Python
 - Pandas
@@ -35,13 +35,13 @@ Repositorio donde se almacenan prácticas, proyectos y apuntes personales desarr
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Aplicar modelos de aprendizaje automático para resolver problemas de regresión y clasificación mediante el análisis, procesamiento e interpretación de diferentes bases de datos.
 
 ---
 
-## 📂 Estructura del proyecto
+## Estructura del proyecto
 
 Cada notebook incluye:
 
@@ -51,11 +51,11 @@ Cada notebook incluye:
 - Evaluación de métricas
 - Visualización de resultados
 - Interpretación de resultados
-- Observaciones y conclusiones personales
+- Observaciones personales
 
 ---
 
-## 🚀 Temas vistos
+## Temas vistos
 
 - Vectorización con NumPy
 - Descenso del Gradiente
@@ -70,13 +70,13 @@ Cada notebook incluye:
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 Gerardo Valdez Martínez  
 Maestría en Optimización y Cómputo Aplicado (MOCA)
 
 ---
 
-## 📌 Nota
+## Nota
 
 Este repositorio tiene fines académicos y de aprendizaje, por lo que algunos notebooks incluyen comentarios, observaciones y apuntes personales realizados durante el desarrollo de las prácticas.
