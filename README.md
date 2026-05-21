@@ -43,8 +43,3 @@ Cada notebook incluye:
 
 Gerardo Valdez Martínez  
 Maestría en Optimización y Cómputo Aplicado (MOCA)
-<p align="center">
-  <img src="ChatGPT Imagen 20 de mayo de 2026, 19_56_33.png">
-</p>
-
-# Aprendizaje Automático
